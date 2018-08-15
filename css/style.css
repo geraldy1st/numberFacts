@@ -1,0 +1,20 @@
+body{
+    font-family: 'Bangers', sans-serif;
+    background-color: #b5b3b1;
+    background-image: linear-gradient(180deg, #b5b3b1 9%, #f5f3f1 49%);
+    height: 100vh;
+}
+#fact{
+    display: none;
+}
+#fact p{
+    font-family: 'Rokkitt';
+}
+.boxfacts{
+    border-radius: 0;
+    border: none;
+    color: #444;
+    box-shadow: -2px 1px 10px 1px #777;
+    color: #555!important;
+    background: #EEE;
+}
